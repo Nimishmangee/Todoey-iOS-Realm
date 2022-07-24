@@ -13,4 +13,4 @@ A todolist app to keep track of all your tasks.
 
 ## To install 
 
-Using terminal cd to project directory, use command pod install, then launch file with .xcworkspace and it'll be all set
+Using terminal cd to project directory, use command pod install, then launch file with .xcworkspace and it'll be all set.
