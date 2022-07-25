@@ -5,17 +5,23 @@
 
 ## Our Goal
 
-The objective of this project is to understand how to save data in iOS. Data stored using Realm. Cocoa Pods accelerated some UI work. <b>MVC architecture</b> was implemented as well
+1. The objective of this project is to understand how to save data in iOS using Realm (Persistent Local data Storage)
+2. Implementing <b>MVC architecture</b> 
+3. <b>Reading</b> data from Realm
+4. <b>Updating</b> data from Realm
+5. <b>Deleting</b> data from Realm
+6. Querying Using Realm
+7. Adding UI finishes using Cocoa Pods
 
-## Description
 
 ![RPReplay_Final1658717348_MP4_AdobeExpress](https://user-images.githubusercontent.com/82581324/180685385-87656f71-39cf-4f23-8376-fec14f1277a4.gif)
 
 ## What it will create 
 
-A todolist app to keep track of all your tasks.
+A todolist app to keep track of all your tasks and storing them in suitable categories
 
 
 ## To install 
 
-Using terminal cd to project directory, use command pod install, then launch file with .xcworkspace and it'll be all set.
+1. Using terminal cd to project directory, use command pod install, then launch file with .xcworkspace and it'll be all set.
+2. Tasks can be deleted by just swiping left over them
