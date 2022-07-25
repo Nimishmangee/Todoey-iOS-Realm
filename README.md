@@ -3,12 +3,13 @@
 </p>
 <H1 align="center">Todoey-iOS-Realm </H1>
 
-Using Realm 
-
 ## Our Goal
 
 The objective of this project is to understand how to save data in iOS. Data stored using Realm. Cocoa Pods accelerated some UI work. <b>MVC architecture</b> was implemented as well
 
+## Description
+
+![RPReplay_Final1658717348_MP4_AdobeExpress](https://user-images.githubusercontent.com/82581324/180685385-87656f71-39cf-4f23-8376-fec14f1277a4.gif)
 
 ## What it will create 
 
